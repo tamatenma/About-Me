@@ -1,0 +1,34 @@
+body {
+  color: #4f4f4f;
+}
+
+h1 {
+	color: #85a1c1;
+}
+
+h2 {
+	color: #c2a36;
+}
+
+ol {
+	color: #ff8ffa;
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+  background: #2e4a52;
+  color: #8b65ad;
+  font-size: 30px;
+}
+
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2e4a52;
+  color: #b4fbfd;
+  text-align: center;
+}
